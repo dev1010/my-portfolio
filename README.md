@@ -1,2 +1,2 @@
 # my-portfolio
-my professional portfolio
+my professional portfolio aws and REACTjs
