@@ -6,7 +6,7 @@ version: 0.1
         -echo nothing to do yet
   artifacts:
     files:
-      -index.html
-      -favicon.ico
-      -styles/mains.css
-      -images/*
+      - index.html
+      - favicon.ico
+      - styles/mains.css
+      - images/*
